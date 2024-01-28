@@ -1,0 +1,120 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.flex-container {
+  display: flex;
+  border: 2px;
+  height: 60vh;
+  justify-content: center;
+  align-items: end;
+}
+.items {
+  margin: 3px;
+}
+.items-container0 {
+  background-color: red;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container1 {
+  background-color: green;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container2 {
+  background-color: purple;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container3 {
+  background-color: blanchedalmond;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container4 {
+  background-color: brown;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container5 {
+  background-color: blueviolet;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container6 {
+  background-color: aquamarine;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container7 {
+  background-color: gold;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container8 {
+  background-color: burlywood;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container9 {
+  background-color: tomato;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container10 {
+  background-color: plum;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container11 {
+  background-color: palegoldenrod;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container12 {
+  background-color: fuchsia;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container13 {
+  background-color: wheat;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
+.items-container14 {
+  background-color: darkgreen;
+  width: 55px;
+  height: 140px;
+  color: white;
+  font-size: 25px;
+}
